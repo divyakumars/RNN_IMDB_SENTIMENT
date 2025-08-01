@@ -2,8 +2,6 @@
 
 This is a web app for **Sentiment Analysis** on IMDB-style movie reviews using a Recurrent Neural Network (RNN). The model classifies input reviews as **Positive**, **Negative**, or **Neutral**. Built and launched entirely using **Google Colab** and **Streamlit**.
 
-<img width="782" height="486" alt="image" src="https://github.com/user-attachments/assets/ba9498d8-b1af-4079-82e4-feb2d2c65007" />
-
 ---
 
 ## 🚀 Features
@@ -95,6 +93,6 @@ This is a web app for **Sentiment Analysis** on IMDB-style movie reviews using a
 ## 👨‍💻 Author
 
 **Divya Kumar**  
-[GitHub](https://github.com/divyakumars/) • [LinkedIn](www.linkedin.com/in/divyakumar21)
+[GitHub](https://github.com/divyakumars/) • [LinkedIn]([www.linkedin.com/in/divyakumar21](https://www.linkedin.com/in/divyakumar21/))
 
 ---
