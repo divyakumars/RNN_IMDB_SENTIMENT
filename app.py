@@ -48,7 +48,6 @@ user_input = st.text_area("📝 Movie Review", height=150, placeholder="e.g. Thi
 # Sample Suggestions
 with st.expander("💡 Try Sample Reviews"):
     st.markdown("- 😊 Absolutely loved it! Would definitely recommend.")
-    st.markdown("- 😐 It was just okay, not too bad, not too great.")
     st.markdown("- 😡 Terrible acting and weak storyline.")
 
 # Predict Sentiment
@@ -77,3 +76,4 @@ if st.button("🔍 Predict Sentiment"):
         ax.bar(labels, values, color=["red", "orange", "green"])
         ax.set_ylim([0, 1])
         st.pyplot(fig)
+
