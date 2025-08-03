@@ -89,6 +89,11 @@ This is a web app for **Sentiment Analysis** on IMDB-style movie reviews using a
 - 📂 Batch review prediction support  
 
 ---
+## 🚀 Live Demo
+
+🔗 [Click here to try the app](https://rnnimdbsentiment-gfhpnqu6rvzpwzku8b5xg7.streamlit.app/)
+
+---
 
 ## 👨‍💻 Author
 
