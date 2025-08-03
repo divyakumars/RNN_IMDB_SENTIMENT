@@ -57,10 +57,10 @@ This is a web app for **Sentiment Analysis** on IMDB-style movie reviews using a
 
 ```
 
-├── app.py                          # Streamlit application script
-├── sentiment_model.keras          # Trained RNN model (TensorFlow native format)
-├── Screenshot_2025-08-01_135259.png  # Screenshot of the web app UI
-└── README.md                      # This file
+├── app.py                            # Streamlit application script
+├──simple_rnn_imdb.h5                  # Trained RNN model 
+├── imdb_word_index.json                 # word index file 
+└── requirements.txt                     # All Python dependencies
 
 ```
 ---
